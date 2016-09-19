@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1473998130 source:c:\users\cyc\documents\progra\2016\2docuat\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matematica.h"
+
+1473997857 c:\users\cyc\documents\progra\2016\2docuat\tp1\matematica.h
+	<stdio.h>
+
+1473998085 source:c:\users\cyc\documents\progra\2016\2docuat\tp1\matematica.c
+	"matematica.h"
+
